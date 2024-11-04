@@ -3,6 +3,7 @@
 DOMAIN-KEYWORD,mikanani
 DOMAIN-KEYWORD,hanime1
 DOMAIN-KEYWORD,18comic
-DOMAIN-KEYWORD,thetvdb.com
-DOMAIN-KEYWORD,api.themoviedb.org
-DOMAIN-KEYWORD,assets.fanart.tv
+DOMAIN,thetvdb.com
+DOMAIN,api.themoviedb.org
+DOMAIN,assets.fanart.tv
+DOMAIN-KEYWORD,animeh

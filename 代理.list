@@ -1,9 +1,9 @@
 ##- DOMAIN,google.com,Proxy #匹配域名(交由Proxy代理服务器组)
 ##- DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)
-DOMAIN-KEYWORD,mikanani,Proxy
-DOMAIN-KEYWORD,hanime1,Proxy
-DOMAIN-KEYWORD,18comic,Proxy
-DOMAIN-KEYWORD,animeh,Proxy
-DOMAIN,thetvdb.com,Proxy
-DOMAIN,themoviedb.org,Proxy
-DOMAIN,fanart.tv,Proxy
+DOMAIN-KEYWORD,mikanani
+DOMAIN-KEYWORD,hanime1
+DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,animeh
+DOMAIN,thetvdb.com
+DOMAIN,themoviedb.org
+DOMAIN,fanart.tv

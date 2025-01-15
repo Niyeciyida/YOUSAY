@@ -2,6 +2,10 @@
 # DOMAIN-KEYWORD,google,Proxy #匹配域名关键字(交由Proxy代理服务器组)\
 
 DOMAIN,hanime1.me
+DOMAIN,avbebe.com
+DOMAIN,18av.mm-cg.com
+DOMAIN,rule34video.com
+DOMAIN,xvideos.com
 DOMAIN,thetvdb.com
 DOMAIN,themoviedb.org
 DOMAIN,fanart.tv

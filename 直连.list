@@ -1,3 +1,4 @@
 # PROCESS-NAME,qbittorrent-ee-nox,DIRECT #匹配路由自身进程(curl直连)
 
-PROCESS-NAME,qbittorrent-ee-nox,DIRECT
+PROCESS-NAME,qbittorrent-ee-nox
+DOMAIN-SUFFIX,xiaohongshu.com
